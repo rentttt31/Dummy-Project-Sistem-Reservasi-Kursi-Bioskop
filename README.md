@@ -17,10 +17,10 @@ Proyek ini adalah sebuah simulasi sistem reservasi kursi bioskop berbasis Python
 Pengembangan sistem ini menjadi bukti kemampuan dalam merancang arsitektur perangkat lunak yang terstruktur, modular, dan tahan terhadap edge cases. Pengelolaan data ketersediaan kursi dan pembuatan alur transaksi ini membangun fondasi algoritmik yang kuat—sebuah keahlian krusial untuk pemrosesan data berskala lebih besar dan pemecahan masalah operasional bisnis di dunia nyata.
 
 # Tampilan Web
-- Login sebagai User
+- Login sebagai Admin
 <img width="960" height="540" alt="Screenshot 2026-06-13 145456" src="https://github.com/user-attachments/assets/c448bc24-e083-47c1-aa7a-c76db8454559" />
 
-- Login sebagai Admin
+- Login sebagai User
 <img width="960" height="540" alt="Screenshot 2026-06-13 145554" src="https://github.com/user-attachments/assets/6e6dfa07-8e43-41a3-9411-47fded180a75" />
 
 - Tampilan Menu Pemesanan Tiket
